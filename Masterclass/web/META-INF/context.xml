@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Masterclass">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="personadb" password="Casa6249!" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/persona?serverTimezone=UTC" username="root"/>
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="persona2" password="Casa6249!" type="javax.sql.DataSource" url="jdbc:mysql://127.0.0.1:3306/persona?serverTimezon=UTC" username="root"/>
+</Context>
